@@ -1,17 +1,3 @@
-# CS50 TSE
-## Jefferson Adjetey (Jeffersonadjetey)
-
-```
-
-***************
-* EXTENSION USED
-***************
-
-```
-
-The assignment and Specs are in a [public repo](https://github.com/cs50winter2022/labs/tse).
-Do not clone that repo; view it on GitHub.
-Watch there for any commits that may represent updates to the assignment or specs.
-
-Add here any assumptions you made while writing the crawler, any ways in which your implementation differs from the three Specs, or any ways in which you know your implementation fails to work.
+# Tiny Search Engine
+A tiny search engine, which includes a crawler, indexer, and querier.
 
